@@ -1,11 +1,9 @@
 
 This is an Encore application with a single API endpoint to convert Apple Music links to Spotify link and vice versa. I have it set up to work with IOS shortcut - see demo below:
 
-## Setup
-
 https://github.com/dangxcx/apple2spotify/assets/77860623/3979189e-a388-4b80-b998-c9b397731e82
 
-
+## Setup
 
 When you have installed Encore, you clone this repro and create a new Encore application 
 
